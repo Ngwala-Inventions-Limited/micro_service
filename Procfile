@@ -1,1 +1,1 @@
-web: gunicorn ngwala_sys.wsgi --log-file -
+web: gunicorn micro.wsgi --log-file -
